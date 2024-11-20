@@ -1,4 +1,4 @@
-A Super Mario-inspired game is a classic 2D platformer where players control Mario, a heroic plumber, navigating through levels filled with obstacles, enemies, and hidden secrets. The game features:
+A Super Mario-inspired game is a classic 2D platformer where players control Mario, a heroic plumber, navigating through levels filled with obstacles, enemies, and hidden secrets. The game features: 
 
 Core Mechanics:
 
